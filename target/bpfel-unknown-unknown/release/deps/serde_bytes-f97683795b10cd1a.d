@@ -1,0 +1,11 @@
+/home/lazytrader/solana-twitter/target/bpfel-unknown-unknown/release/deps/serde_bytes-f97683795b10cd1a.rmeta: /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs
+
+/home/lazytrader/solana-twitter/target/bpfel-unknown-unknown/release/deps/libserde_bytes-f97683795b10cd1a.rlib: /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs
+
+/home/lazytrader/solana-twitter/target/bpfel-unknown-unknown/release/deps/serde_bytes-f97683795b10cd1a.d: /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs /home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs
+
+/home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs:
+/home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs:
+/home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs:
+/home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs:
+/home/lazytrader/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs:
